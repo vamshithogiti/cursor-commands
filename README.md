@@ -241,6 +241,10 @@ Provide specific remediation steps for each issue found.
 - Open an [issue](https://github.com/hamzafer/cursor-commands/issues) for feedback or requests
 - Refer to this README for the command index that ships with the prompts
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hamzafer/cursor-commands&type=Date)](https://star-history.com/#hamzafer/cursor-commands&Date)
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
